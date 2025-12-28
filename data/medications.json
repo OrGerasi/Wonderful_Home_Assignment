@@ -1,0 +1,77 @@
+[
+  {
+    "id": "med_001",
+    "name": "Acamol",
+    "search_names": [
+      "acamol",
+      "אקמול",
+      "פראצטמול",
+      "paracetamol"
+    ],
+    "active_ingredients": [
+      "Paracetamol 500mg"
+    ],
+    "description": "Pain reliever and fever reducer.",
+    "dosage_instructions": "1-2 caplets every 4-6 hours.",
+    "requires_prescription": false,
+    "stock_quantity": 121,
+    "price": 20.0
+  },
+  {
+    "id": "med_002",
+    "name": "Moxypen",
+    "search_names": [
+      "moxypen",
+      "מוקסיפן",
+      "amoxicillin",
+      "אמוקסיצילין"
+    ],
+    "active_ingredients": [
+      "Amoxicillin 500mg"
+    ],
+    "description": "Antibiotic used to treat bacterial infections.",
+    "dosage_instructions": "Take 1 capsule 3 times a day.",
+    "requires_prescription": true,
+    "stock_quantity": 36,
+    "price": 35.5
+  },
+  {
+    "id": "med_003",
+    "name": "Ritalin",
+    "search_names": [
+      "רטלין"
+    ],
+    "active_ingredients": [
+      "Methylphenidate 10mg"
+    ],
+    "description": "Stimulant medication for ADHD.",
+    "dosage_instructions": "Take as directed by physician, usually once or twice daily.",
+    "requires_prescription": true,
+    "stock_quantity": 0,
+    "price": 85.0
+  },
+  {
+    "id": "med_004",
+    "name": "Otrivin",
+    "active_ingredients": [
+      "Xylometazoline 0.1%"
+    ],
+    "description": "Nasal spray for congestion relief.",
+    "dosage_instructions": "1 spray in each nostril up to 3 times daily. Do not use for more than 3 days.",
+    "requires_prescription": false,
+    "stock_quantity": 200,
+    "price": 25.0
+  },
+  {
+    "id": "med_005",
+    "name": "Elitroxin",
+    "active_ingredients": [
+      "Levothyroxine Sodium 50mcg"
+    ],
+    "description": "Thyroid hormone replacement.",
+    "dosage_instructions": "Take 1 tablet daily on an empty stomach.",
+    "requires_prescription": true,
+    "stock_quantity": 60,
+    "price": 18.0
+  }
+]

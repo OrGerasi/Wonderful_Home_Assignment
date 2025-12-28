@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Israel Israeli",
+    "active_prescriptions": ["med_002"] 
+  },
+  {
+    "id": "2",
+    "name": "Dana Cohen",
+    "active_prescriptions": [] 
+  },
+  {
+    "id": "3",
+    "name": "Yossi Levi",
+    "active_prescriptions": ["med_003", "med_005"] 
+  },
+  {
+    "id": "4",
+    "name": "Or Gerasi",
+    "active_prescriptions": ["med_002"] 
+  },
+  {
+    "id": "5",
+    "name": "Or Porat",
+    "active_prescriptions": [] 
+  },
+  {
+    "id": "6",
+    "name": "Yossi Israeli",
+    "active_prescriptions": ["med_003", "med_005"] 
+  },
+  {
+    "id": "7",
+    "name": "Israel Levy",
+    "active_prescriptions": ["med_002"] 
+  },
+  {
+    "id": "8",
+    "name": "Moshe Cohen",
+    "active_prescriptions": [] 
+  },
+  {
+    "id": "9",
+    "name": "Dana Levi",
+    "active_prescriptions": ["med_003", "med_005"] 
+  },
+  {
+    "id": "9",
+    "name": "Dana Dana",
+    "active_prescriptions": ["med_003", "med_005"] 
+  }
+]
